@@ -1,4 +1,4 @@
-# Projeto de Estudo em Portugol: Aplicativo de Cálculo de Desconto e Juros
+# Projeto de Estudo em Portugol: Conversão
 
 Bem-vindo(a) ao meu projeto de estudo em Portugol! A proposta desse projeto é criar um sistema que permita ao usuário escolher em uma lista de opções a conversão que quer fazer e para isso, utilizaremos o Portugol.
 
